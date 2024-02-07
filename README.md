@@ -6,4 +6,4 @@
 ### Passo a passo do processo de ETL descrito no diagrama na área de transformação do Pentaho ( o arquivo dengue_2024.ktr encontrasse disponível nesse repositório).
 
 
-![Projeto_Dengue_image](https://github.com/jrafael23/Dados_Dengue_2024/assets/130203423/48944690-c591-420a-b0cf-d2c73fcc3778)
+![image](https://github.com/jrafael23/Dados_Dengue_2024/assets/130203423/301a85cd-895e-4c79-877f-a6a176e6a1a0)
